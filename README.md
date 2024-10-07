@@ -1,7 +1,7 @@
-- 👋 Hi techies, My name is Sudarshan
-- 👀 I’m interested learning new technologies
-- 🌱 I’m currently learning Backend Technology
-- 💞️ I’m looking to collaborate on Building Backend Systems
+- 👋 Hi techies, My name is Sudarshan 
+- 👀 I’m a Software Test Engineer
+- 🌱 I have 3 years of work experience
+- 💞️ I’m looking to collaborate on building automation framworks and testing activities
 - 📫 Please do reach me Sudarshanmagadi42@gmail.com
 
 <!---
